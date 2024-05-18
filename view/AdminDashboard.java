@@ -1,7 +1,7 @@
 package view;
 
 import javax.swing.*;
-
+                                  // controler 
 import controller.DashboardC;
 import model.entities.Admin;
 import model.entities.Client;
